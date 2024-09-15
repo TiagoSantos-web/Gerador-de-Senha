@@ -1,0 +1,22 @@
+*{
+    front-family: sans-serif;
+    width: 100%;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+
+body{
+background-color: #18181B;
+}
+
+.container-input button{
+    margin-top: 10rem ;
+   padding: 1rem;
+    cursor: pointer;
+    width: 50%;
+}
+
+#container-password span{
+    color: white;
+}
